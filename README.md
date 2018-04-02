@@ -2,6 +2,10 @@
 
 A Flutter project of book app UI from prototype originally by Travis.
 
+## How to run
+
+Type `flutter run --preview-dart-2` into terminal to run the app.
+
 ## Video Tutorial
 
 You can find the video tutorial of this project on youtube, check this out
